@@ -34,7 +34,7 @@ return false;
 }     
 }
 
-let nombre = nombreResolucion(1366, 768);
+let nombre = nombreResolucion(7680, 4320);
 console.log(nombre);
 
 let nombre2 = nombreResolucion(3840, 2160);
